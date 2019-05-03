@@ -1,0 +1,4 @@
+AuthUserFile "/home/mikael1142/.htpasswds/public_html/swissrealty.io/web2-0/passwd"
+AuthType Basic
+AuthName "New Website"
+require valid-user
