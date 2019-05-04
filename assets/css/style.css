@@ -1677,8 +1677,9 @@ h4.post-title a {
  
 /* Hand mock ups test with Jijos */
 .handMockUps {
-    width: 340px;
-    margin-left: 33%;
+    width: 540px;
+    display: block;
+    margin: 0 auto 36px;
 }
 
 

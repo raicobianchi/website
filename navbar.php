@@ -3,24 +3,24 @@
     // arrays of the links for the navigation
     $navArray = array(
         "home" => array(
-            "link" => "/web2-0/index.php",
+            "link" => "./index.php",
             "sub1" => "#ourSolution",
             "sub2" => "#ourTech",
             "sub3" => "#ourCompany",
             "sub4" => "#ourMilestones"
         ),
         "investments" => array(
-            "link" => "/web2-0/investment opportunities.php", 
+            "link" => "./investment opportunities.php", 
             "sub1" => "#easyInvest",
             "sub2" => "#realEstate"
         ),
         "investors" => array(
-            "link" => "/web2-0/investors.php",
+            "link" => "./investors.php",
             "sub1" => "?p=inv",
             "sub2" => "?p=par"
         ),
         "contacts" => array(
-            "link" => "/web2-0/contact.php"
+            "link" => "./contact.php"
         )
     );
 
