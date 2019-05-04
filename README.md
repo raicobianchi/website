@@ -1,4 +1,4 @@
-# Swiss Realty Website 2.0
+# [🏔 Swiss Realty Website 2.0](https://swissrealty.io/web2-0/website/index.php)
 This is the repository for Swiss Realty's public static web page.
 
 # Develop locally
